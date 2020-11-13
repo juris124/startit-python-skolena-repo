@@ -15,4 +15,4 @@ def hipotenuza(a, b):
         hipotenuza(3, 4) == 5.0
         hipotenuza(3, 0) == 0
     """
-    return
+    return 0

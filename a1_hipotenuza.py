@@ -17,6 +17,6 @@ def hipotenuza(a, b):
     """
     if a>0 and b>0:
         rezultats = math.sqrt(a**2 + b**2)
-   else:
+    else:
         rezultats = 0
     return rezultats
